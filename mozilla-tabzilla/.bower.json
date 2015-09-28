@@ -1,0 +1,41 @@
+{
+  "name": "mozilla-tabzilla",
+  "version": "0.3.0",
+  "homepage": "https://github.com/mozilla/tabzilla",
+  "authors": [
+    "Mozilla"
+  ],
+  "description": "Universal Tabzilla for use on Mozilla websites",
+  "main": [
+    "css/tabzilla.css"
+  ],
+  "ignore": [
+    "docs-assets",
+    "less",
+    "node_modules",
+    ".gitignore",
+    "bower.json",
+    "Gruntfile.js",
+    "index.html",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/tabzilla.git"
+  },
+  "keywords": [
+    "mozilla",
+    "tabzilla"
+  ],
+  "license": "MPL",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.0",
+    "commit": "1f15982f0f4091b314c058e3727a8f12324477fc"
+  },
+  "_source": "git://github.com/mozilla/tabzilla.git",
+  "_target": "~0.3.0",
+  "_originalSource": "mozilla-tabzilla",
+  "_direct": true
+}
